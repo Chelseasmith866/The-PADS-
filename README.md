@@ -1,4 +1,4 @@
-# The-PADS-
+# The-PADS
 HackerRank SQL Problem
 
 Generate the following two result sets:
